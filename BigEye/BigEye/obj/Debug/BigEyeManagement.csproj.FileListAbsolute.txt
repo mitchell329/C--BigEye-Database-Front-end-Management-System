@@ -1,0 +1,16 @@
+C:\TEMP\BigEyeManagement\BigEyeManagement\bin\Debug\BigEyeManagement.exe.config
+C:\TEMP\BigEyeManagement\BigEyeManagement\bin\Debug\BigEyeManagement.exe
+C:\TEMP\BigEyeManagement\BigEyeManagement\bin\Debug\BigEyeManagement.pdb
+C:\TEMP\BigEyeManagement\BigEyeManagement\obj\Debug\BigEyeManagement.csprojResolveAssemblyReference.cache
+C:\TEMP\BigEyeManagement\BigEyeManagement\obj\Debug\BigEyeManagement.AssignmentForm.resources
+C:\TEMP\BigEyeManagement\BigEyeManagement\obj\Debug\BigEyeManagement.CaseForm.resources
+C:\TEMP\BigEyeManagement\BigEyeManagement\obj\Debug\BigEyeManagement.ClientForm.resources
+C:\TEMP\BigEyeManagement\BigEyeManagement\obj\Debug\BigEyeManagement.DataModule.resources
+C:\TEMP\BigEyeManagement\BigEyeManagement\obj\Debug\BigEyeManagement.EquipmentForm.resources
+C:\TEMP\BigEyeManagement\BigEyeManagement\obj\Debug\BigEyeManagement.MainForm.resources
+C:\TEMP\BigEyeManagement\BigEyeManagement\obj\Debug\BigEyeManagement.InvestigatorForm.resources
+C:\TEMP\BigEyeManagement\BigEyeManagement\obj\Debug\BigEyeManagement.InvoiceForm.resources
+C:\TEMP\BigEyeManagement\BigEyeManagement\obj\Debug\BigEyeManagement.Properties.Resources.resources
+C:\TEMP\BigEyeManagement\BigEyeManagement\obj\Debug\BigEyeManagement.csproj.GenerateResource.Cache
+C:\TEMP\BigEyeManagement\BigEyeManagement\obj\Debug\BigEyeManagement.exe
+C:\TEMP\BigEyeManagement\BigEyeManagement\obj\Debug\BigEyeManagement.pdb
